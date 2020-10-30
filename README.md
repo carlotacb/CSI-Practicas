@@ -6,9 +6,9 @@ En este repositorio podeis encontrar las practicas de [Computación y Sistemas I
 
 ### Bloque 1 - Minizinc
 
-- [Entrega 1: NReinas](/Bloc%201%20-%20MiniZinc/Entrega%201%20-%20NReinas) - Nota: 4
-- [Entrega 2: TriviaNight](/Bloc%201%20-%20MiniZinc/Entrega%202%20-%20TriviaNight) - Nota: 7
-- [Entrega 3: Planning](/Bloc%201%20-%20MiniZinc/Entrega%203%20-%20Planning) - Nota: 7
+- [Entrega 1: NReinas](/Bloc%201%20-%20MiniZinc/Entrega%201%20-%20NReinas) - > Nota: 4
+- [Entrega 2: TriviaNight](/Bloc%201%20-%20MiniZinc/Entrega%202%20-%20TriviaNight) - > Nota: 7
+- [Entrega 3: Planning](/Bloc%201%20-%20MiniZinc/Entrega%203%20-%20Planning) - > Nota: 7
 
 ### Bloque 2 - Bayesian Networks
 
@@ -16,7 +16,7 @@ En este repositorio podeis encontrar las practicas de [Computación y Sistemas I
 - [Codigos](/Bloc%202%20-%20Bayesian%20Networks/codigos)
 - [Entrega practica](/Bloc%202%20-%20Bayesian%20Networks/Documentacio.pdf)
 
-Nota: 9
+> Nota: 9
 
 ### Bloque 3 - Machine Learning
 
@@ -24,4 +24,4 @@ Nota: 9
 - [Codigo](/Bloc%203%20-%20Machine%20Learning/Proyecto_ML_CSI.ipynb)
 - [Entrega](/Bloc%203%20-%20Machine%20Learning/Documentacio.pdf)
 
-Nota: 9
+> Nota: 9
