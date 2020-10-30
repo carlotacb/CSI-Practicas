@@ -1,0 +1,631 @@
+net
+{
+	rcenginegenerator1317510038576835557L = "edu.ucla.belief.inference.RCSettings@57ec92f2";
+}
+
+node fila6_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 -311);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila2_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 89);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node dosBolas
+{
+	states = ("columna9" "columna8" "columna7" "columna6" "columna5" "columna4" "columna3" "columna2" "columna1" );
+	position = (252 -429);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "dosBolas";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila5_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 -211);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila6
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 -311);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila1_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 189);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila6_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 -311);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila3_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 -11);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node tresBolas
+{
+	states = ("columna9" "columna8" "columna7" "columna6" "columna5" "columna4" "columna3" "columna2" "columna1" );
+	position = (405 -526);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "tresBolas";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila4_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 -111);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node lanzador
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 290);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "lanzador";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node lanzador_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (571 289);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "lanzador";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila3
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 -11);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila1_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 189);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila2_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 89);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node lanzador_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (358 289);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "lanzador";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 189);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila3_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 -11);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila5_paste1
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (572 -211);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila5
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 -211);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila4
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 -111);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila4_paste0
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (359 -111);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node fila2
+{
+	states = ("columna1" "columna2" "columna3" "columna4" "columna5" "columna6" "columna7" "columna8" "columna9" );
+	position = (137 89);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	label = "fila2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( fila6_paste0 | fila5_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila2_paste0 | fila1_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( dosBolas | fila6 fila6_paste0 )
+{
+	data = (((	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	))
+		((	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	))
+		((	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)));
+}
+potential ( fila5_paste0 | fila4_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila6 | fila5 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila1_paste1 | lanzador_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila6_paste1 | fila5_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila3_paste1 | fila2_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( tresBolas | dosBolas fila6_paste1 )
+{
+	data = (((	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	0.0	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	))
+		((	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)
+		(	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	)));
+}
+potential ( fila4_paste1 | fila3_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( lanzador | )
+{
+	data = (	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	);
+}
+potential ( lanzador_paste1 | )
+{
+	data = (	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	);
+}
+potential ( fila3 | fila2 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila1_paste0 | lanzador_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila2_paste1 | fila1_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( lanzador_paste0 | )
+{
+	data = (	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	0.11111111111111108	);
+}
+potential ( fila1 | lanzador )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila3_paste0 | fila2_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila5_paste1 | fila4_paste1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila5 | fila4 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila4 | fila3 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila4_paste0 | fila3_paste0 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}
+potential ( fila2 | fila1 )
+{
+	data = ((	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.5	0.0	0.5	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0	0.5	)
+		(	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	));
+}

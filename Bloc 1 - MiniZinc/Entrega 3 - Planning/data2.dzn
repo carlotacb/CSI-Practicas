@@ -1,0 +1,7 @@
+m = 30;
+n = 10;
+dificultad = [8,5,9,4,6,2,7,5,3,4,6,9,2,4,8,7,5,10,1,8,8,2,10,9,5,5,8,5,8,7];
+disfrute = [8,4,3,6,8,4,9,10,2,10,8,7,5,9,6,4,10,2,8,9,7,9,9,2,5,8,10,3,4,7];
+esfVocal = [true,false,true,false,false,false,false,false,true,false,true,false,false,false,true,false,false,false,true,true,true,false,false,true,false,false,true,true,false,false];
+hit = [false,false,true,true,true,false,false,true,true,false,true,false,false,false,true,true,false,false,false,false,true,true,false,false,true,true,true,false,false,false];
+ritmo = [intermedia,intermedia,intermedia,lenta,intermedia,intermedia,lenta,intermedia,lenta,intermedia,intermedia,lenta,lenta,intermedia,intermedia,intermedia,intermedia,rapida,intermedia,lenta,intermedia,intermedia,intermedia,rapida,intermedia,lenta,rapida,lenta,lenta,rapida];
