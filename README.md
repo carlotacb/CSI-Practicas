@@ -6,13 +6,13 @@ En este repositorio podeis encontrar las practicas de [Computación y Sistemas I
 
 ### Bloque 1 - Minizinc
 
-- [Entrega 1: NReinas](/Bloc%201%20-%20MiniZinc/Entrega%201%20-%20NReinas) - 
+- [Entrega 1: NReinas](/Bloc%201%20-%20MiniZinc/Entrega%201%20-%20NReinas)
 > Nota: 4
 
-- [Entrega 2: TriviaNight](/Bloc%201%20-%20MiniZinc/Entrega%202%20-%20TriviaNight) - 
+- [Entrega 2: TriviaNight](/Bloc%201%20-%20MiniZinc/Entrega%202%20-%20TriviaNight)
 > Nota: 7
 
-- [Entrega 3: Planning](/Bloc%201%20-%20MiniZinc/Entrega%203%20-%20Planning) - 
+- [Entrega 3: Planning](/Bloc%201%20-%20MiniZinc/Entrega%203%20-%20Planning)
 > Nota: 7
 
 ### Bloque 2 - Bayesian Networks
