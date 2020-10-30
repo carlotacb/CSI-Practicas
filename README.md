@@ -1,4 +1,4 @@
-# Practiques CSI
+# Practicas CSI
 
 En este repositorio podeis encontrar las practicas de [Computación y Sistemas Inteligentes](https://www.fib.upc.edu/es/estudios/masteres/master-en-ingenieria-informatica/plan-de-estudios/asignaturas/CSI-MEI) en el Master de Ingenieria informática de la Facultad de Informatica de Barcelona - UPC, realizada durante el quatrimestre de otoño de 2019/2020.
 
