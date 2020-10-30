@@ -13,7 +13,7 @@ En este repositorio podeis encontrar las practicas de [Computación y Sistemas I
 ### Bloque 2 - Bayesian Networks
 
 - [Enunciado](/Bloc%202%20-%20Bayesian%20Networks/Enunciat.pdf)
-- [Codigos]()
+- [Codigos](/Bloc%202%20-%20Bayesian%20Networks/codigos)
 - [Entrega practica](/Bloc%202%20-%20Bayesian%20Networks/Documentacio.pdf)
 
 Nota: 9
